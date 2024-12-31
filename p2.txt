@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vikas gowda D
+=======
+vikas gowda
+>>>>>>> 2f11249 (p2)
